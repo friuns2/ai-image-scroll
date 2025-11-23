@@ -1,0 +1,7 @@
+{
+  "name": "AI Image Scroll",
+  "description": "Upload a photo or take a picture and scroll through an endless feed of AI-generated creative edits, TikTok-style.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
